@@ -1,15 +1,9 @@
 ﻿
 (function () {
     var StudentService = function ($http) {
-        var base = 'http://w06a.jesstek.me/api/student/';
-
-        var _getStudent = function (studentId) {
-            return $http.get(base + studentId)
-            .then(function (response) {
-                return reponse.data;
-            });
-        };
-
+        var base = 'http://w06a.jesstek.me/api/Student/';
+ 
+        //show all
         var _getAllStudents = function () {
             return $http.get(base)
             .then(function (response) {
@@ -17,9 +11,27 @@
             });
         };
 
+        //find
+        var _getStudent = function (id) {
+            return $http.get(base + id)
+            .then(function (response) {
+                return response.data;
+            });
+        };
+
+        //add
+        var _addStudent = function (data) {
+            return $http.post(base, data)
+                .then(function (response) {
+                    return response.data;
+                });
+        };
+
+        //reference
         return {
             getStudent: _getStudent,
-            getAllStudents: _getAllStudents
+            getAllStudents: _getAllStudents,
+            addStudent: _addStudent
         };
     };
 

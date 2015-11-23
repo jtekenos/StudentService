@@ -11,6 +11,15 @@
                 templateUrl: "views/showAll.html",
                 controller: "StudentController"
             })
+            .when("/find", {
+                templateUrl: "views/find.html",
+                controller: "StudentController"
+            })
+            .when("/add", {
+                templateUrl: "views/add.html",
+                controller: "StudentController"
+            })
+
             .otherwise({ redirectTo: "/main" });
     });
 

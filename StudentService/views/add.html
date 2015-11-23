@@ -1,0 +1,30 @@
+﻿<div class="main_content">
+    <h1>Add a Student</h1>
+    <table>
+        <tr><td>Student ID:</td><td><input type="text" ng-model="student.StudentId"/></td></tr>
+        <tr><td>First Name:</td><td><input type="text" ng-model="student.FirstName"/></td></tr>
+        <tr><td>Last Name:</td><td><input type="text" ng-model="student.LastName" /></td></tr>
+        <tr><td>Program:</td><td><input type="text" ng-model="student.Program" /></td></tr>
+        <tr><td colspan="2"><button ng-click="addStudent()">Add a Student</button></td></tr>
+    </table>
+</div>
+<div data-ng-show="newStudent">
+    <table>
+        <tr>
+            <td>Student Id: </td>
+            <td>{{ newStudent.StudentId }}</td>
+        </tr>
+        <tr>
+            <td>First Name: </td>
+            <td>{{ newStudent.FirstName }}</td>
+        </tr>
+        <tr>
+            <td>LastName: </td>
+            <td>{{ newStudent.LastName }}</td>
+        </tr>
+        <tr>
+            <td>Program: </td>
+            <td>{{ newStudent.Program }}</td>
+        </tr>
+    </table>
+</div>

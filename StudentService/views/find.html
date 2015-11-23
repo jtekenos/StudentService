@@ -1,0 +1,28 @@
+﻿<div class="main_content">
+    <h1>Find a Student</h1>
+    <p>
+        Enter a student id number: 
+        <input type="text" data-ng-model="StudentId" />
+    </p>
+    <p>
+        <button ng-click="find(StudentId)">Get Student</button>
+    </p>
+    <table data-ng-show="student">
+        <tr>
+            <td>Student Id: </td>
+            <td>{{student.StudentId}}</td>
+        </tr>
+        <tr>
+            <td>First Name: </td>
+            <td>{{student.FirstName}}</td>
+        </tr>
+        <tr>
+            <td>Last Name: </td>
+            <td>{{student.LastName}}</td>
+        </tr>
+        <tr>
+            <td>Program: </td>
+            <td>{{student.Program}}</td>
+        </tr>
+    </table>
+</div>
