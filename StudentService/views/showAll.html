@@ -1,0 +1,23 @@
+﻿<div class="main_content">
+    <h1>Show All Students</h1>
+    <button ng-click="search()">Get All Students</button>
+
+    <table class="ui-state-highlight" data-ng-show="students">
+        <thead>
+            <tr>
+                <th>Student Id</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Program</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="s in students">
+                <td>{{s.StudentId}}</td>
+                <td>{{s.FirstName}}</td>
+                <td>{{s.LastName}}</td>
+                <td>{{s.Program}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

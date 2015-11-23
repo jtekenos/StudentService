@@ -1,0 +1,60 @@
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\csc.exe
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\vbc.exe
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\CorsStudentClient.dll.config
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\CorsStudentClient.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\CorsStudentClient.pdb
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\obj\Debug\CorsStudentClient.csprojResolveAssemblyReference.cache
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\obj\Debug\CorsStudentClient.dll
+C:\Users\dturi\Dropbox\Denis\School\COMP4976_ASP\W06\StudentWebApiCorsLab\CorsStudentClient\obj\Debug\CorsStudentClient.pdb
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\csc.exe
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\vbc.exe
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\CorsStudentClient.dll.config
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\CorsStudentClient.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\CorsStudentClient.pdb
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\obj\Debug\CorsStudentClient.dll
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\obj\Debug\CorsStudentClient.pdb
+C:\Users\Jessica\Documents\School\Fall 2015\COMP4976 - ASP .NET\Week 6\CorsStudentClient\obj\Debug\CorsStudentClient.csprojResolveAssemblyReference.cache
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\csc.exe
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\vbc.exe
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\CorsStudentClient.dll.config
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\CorsStudentClient.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\CorsStudentClient.pdb
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\obj\Debug\CorsStudentClient.csprojResolveAssemblyReference.cache
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\obj\Debug\CorsStudentClient.dll
+C:\Users\jessi\Desktop\Week 6\CorsStudentClient\obj\Debug\CorsStudentClient.pdb
