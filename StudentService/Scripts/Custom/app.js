@@ -19,6 +19,14 @@
                 templateUrl: "views/add.html",
                 controller: "StudentController"
             })
+            .when("/delete", {
+                templateUrl: "views/delete.html",
+                controller: "StudentController"
+            })
+            .when("/edit", {
+                templateUrl: "views/edit.html",
+                controller: "StudentController"
+            })
 
             .otherwise({ redirectTo: "/main" });
     });

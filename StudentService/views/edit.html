@@ -1,0 +1,23 @@
+﻿<div class="main_content">
+    <h1>Edit a Student</h1>
+    <p>
+        Enter a student id number:
+        <input type="text" data-ng-model="StudentId" />
+    </p>
+    <p>
+        <button ng-click="find(StudentId)">Get Student</button>
+    </p>
+
+    <table data-ng-show="student">
+        <tr><td>Student ID:</td><td><input type="text" ng-model="student.StudentId" /></td></tr>
+        <tr><td>First Name:</td><td><input type="text" ng-model="student.FirstName" /></td></tr>
+        <tr><td>Last Name:</td><td><input type="text" ng-model="student.LastName" /></td></tr>
+        <tr><td>Program:</td><td><input type="text" ng-model="student.Program" /></td></tr>
+        <tr><td colspan="2"><button ng-click="updateStudent()">Update Student</button></td></tr>
+
+    </table>
+
+    <div id="dialog_update" title="Update" style="display: none;">
+        <p>Student with ID={{StudentId}} has been updated.</p>
+    </div>
+</div>

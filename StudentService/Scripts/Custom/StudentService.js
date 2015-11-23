@@ -27,11 +27,29 @@
                 });
         };
 
+        //delete
+        var _deleteStudent = function (id) {
+            return $http.delete (base + id)
+                .then(function (response) {
+                    return response.data
+                });
+        };
+
+        //edit
+        var _updateStudent = function (data) {
+            return $http.put(base + data.StudentId, data)
+                .then(function (response) {
+                    return response.data;
+                });
+        };
+
         //reference
         return {
             getStudent: _getStudent,
             getAllStudents: _getAllStudents,
-            addStudent: _addStudent
+            addStudent: _addStudent,
+            deleteStudent: _deleteStudent,
+            updateStudent: _updateStudent
         };
     };
 

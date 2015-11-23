@@ -66,8 +66,42 @@
         };
 
         //Delete Student
+        $scope.del_show = "none";
+        var deleteOk = function (data) {
+            $scope.students = data;
+            $scope.confirm = data.StudentId;
+            $scope.del_show = "true";
+            $("#delete_dialog").dialog();
+        };
+
+        var deleteError = function (data) {
+            $scope.error = "Unable to delete specified student.";
+        };
+
+        $scope.deleteStudent = function (id) {
+            StudentService.deleteStudent(id)
+                .then(deleteOk, deleteError);
+        };
 
         //Edit Student
+        var updateOk = function (data) {
+            $scope.student = undefined;
+            $("#dialog_update").dialog();
+        };
+        var updateError = function (reason) {
+            $scope.error = "Could not edit specified student.";
+        }
+        $scope.updateStudent = function () {
+            var data = {
+                StudentId: $scope.student.StudentId,
+                FirstName: $scope.student.FirstName,
+                LastName: $scope.student.LastName,
+                Program: $scope.student.Program
+            }
+
+            StudentService.updateStudent(data)
+                .then(updateOk, updateError);
+        };
 
     };
 
