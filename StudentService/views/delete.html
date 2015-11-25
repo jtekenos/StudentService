@@ -1,0 +1,14 @@
+﻿<div class="main_content">
+    <h1>Delete a Student</h1>
+
+    <p>Enter Student Id: <input type="text" data-ng-model="StudentId"/></p>
+
+    <p><button ng-click="deleteStudent(StudentId)">Delete Student</button></p>
+
+    <div id="dialog_delete" title="Delete" style="display:{{del_show}}">
+
+        <p>Student with ID={{ confirm }} has been deleted.</p>
+
+    </div>
+
+</div>

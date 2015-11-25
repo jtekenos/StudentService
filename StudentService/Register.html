@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+    <form id="frmRegister">
+        <input type="text" name="Email" placeholder="Email" />
+        <input type="password" name="password" placeholder="Password" />
+        <input type="password" name="confirmPassword" placeholder="Confirm Password" />
+    </form>
+    <input type="submit" id="btnRegister" value="Register" />
+
+    <pre id="preOutput"></pre>
+
+    <script>
+    $(function() {
+
+    var register = function () {
+        var url = "/api/account/register";
+        var data = $("#frmRegister").serialize();
+        $.post(url, data).always(showResponse);
+        return false;
+    };
+
+
+    var showResponse = function (object) {
+        $("#preOutput").text(JSON.stringify(object, null, 4));
+    };
+
+
+        $("#btnRegister").click(register);
+    });
+    </script>
+</body>
+</html>
